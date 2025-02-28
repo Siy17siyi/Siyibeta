@@ -1,4 +1,4 @@
-# SuRibeta
+# Siy1beta
 #!name = beta
 #!desc = iOS 15以上设备使用，且必须启用MitM-over-HTTP/2功能。(搬运并修改自可莉)移除ui修改项，配合boxjs和Enhaced使用
 #!openUrl = https://apps.apple.com/app/id736536022
